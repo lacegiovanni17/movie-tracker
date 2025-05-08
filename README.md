@@ -26,6 +26,7 @@ It allows users to add movies with optional notes, mark them as watched or unwat
 * Git
 * Typescript
 * MongoDB
+* TailwindCSS
 * Postman
 
 ## TASK 
@@ -39,8 +40,17 @@ It allows users to add movies with optional notes, mark them as watched or unwat
 
 1. I downloaded RooCode AI extension into my VSCode and put in the settings as shown in the picture above and it connected successfully. 
 2. After successfull connection, I then passed in necessary prompts to the RooCode code and run the commands which was used to create both frontend and backend section of my movie tracker app
+3. I created my MongoDB Database and connected it to the Backend
+4. I tested out my backend endpoints
+5. I used the RooCode AI prompting to create the Frontend section with ReactJS and Typescript and TailwindCSS
+6. Tested Connection of Frontend to Backend
 
 
+## Postman Testing of API Endpoints (https://documenter.getpostman.com/view/29763810/2sB2j978ZA)
+<img width="1440" alt="Screenshot 2025-05-08 at 23 17 28" src="https://github.com/user-attachments/assets/08720e54-3872-40d9-a691-c4c44edc476e" />
+
+## Backend API Documentation with Postman
+** Link: https://documenter.getpostman.com/view/29763810/2sB2j978ZA
 
 
 ## Author
