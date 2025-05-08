@@ -1,7 +1,6 @@
 # MOVIE TRACKER
 ## MOVIE TRACKER FULLSTACK AI PROMPTED PROJECT
-This is a simple movie tracker project built with RooCodeAI for prompt engineering, ReactJS on the Frontend and C# .Net mvc on the backend. 
-It allows users to add movies with optional notes, mark them as watched or unwatched, rate them and store all data securely in MongoDB database
+This 🎬 Movie Tracker project is a full-stack application built using ReactJS for the frontend and C# .NET MVC for the backend, with MongoDB 🛢️ as the database to persist user data. It allows users to add movies with a title and optional notes, mark them as watched or unwatched, and rate them ⭐. The project was designed with prompt engineering via RooCode AI 🤖, enabling rapid scaffolding and automation of common tasks, boosting development speed and consistency. ReactJS was chosen for its responsive UI and component-based architecture, ideal for rendering dynamic movie lists. On the backend, C# .NET MVC provides a robust and scalable API framework, ensuring structured routing and controller logic. MongoDB supports flexible data storage, perfect for managing user-generated content without strict schema constraints. All RESTful endpoints were tested using Postman 📬 to ensure smooth communication between client and server. This project showcases a seamless integration of technologies and development practices to deliver a feature-rich, user-friendly movie tracking system.
 
 ## Frontend Picture of MovieTracker Fullstack Project
 <img width="1440" alt="Screenshot 2025-05-08 at 22 41 10" src="https://github.com/user-attachments/assets/a4502547-9646-4614-b05d-f3cab4c6faf6" />
@@ -52,6 +51,9 @@ It allows users to add movies with optional notes, mark them as watched or unwat
 ## Backend API Documentation with Postman
 ** Link: https://documenter.getpostman.com/view/29763810/2sB2j978ZA
 
+## MongoDB as Database
+<img width="1329" alt="Screenshot 2025-05-08 at 23 37 42" src="https://github.com/user-attachments/assets/ca19a1ee-c04c-4717-af0a-a3d1e5a48947" />
+
 
 ## Author
 #### 👤 Author1
@@ -66,6 +68,6 @@ Contributions, issues, critics and feature requests are welcome!
 Please give a ⭐️ if you like this project! 
 
 ## Acknowledgments
-- Hat tip to Hiemdall Project
+- Hat tip to Heimdall Project
 - Inspiration to all devs
 - etc
