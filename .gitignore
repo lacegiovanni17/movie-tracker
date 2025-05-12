@@ -68,3 +68,10 @@ next-env.d.ts
 *.njsproj
 *.sln
 *.sw?
+
+# C# / .NET
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
