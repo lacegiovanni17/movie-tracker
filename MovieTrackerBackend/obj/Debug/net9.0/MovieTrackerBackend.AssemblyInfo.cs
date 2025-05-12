@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MovieTrackerBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3608d00560f03e6b31c7c5055dd5f8dfead89205")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c5f26890fdb65ff7068d27b17a99bb4ff02119e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MovieTrackerBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MovieTrackerBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
