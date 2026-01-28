@@ -45,11 +45,11 @@ This 🎬 Movie Tracker project is a full-stack application built using ReactJS 
 6. Tested Connection of Frontend to Backend
 
 
-## Postman Testing of API Endpoints (https://documenter.getpostman.com/view/29763810/2sB2j978ZA)
-<img width="1440" alt="Screenshot 2025-05-08 at 23 17 28" src="https://github.com/user-attachments/assets/08720e54-3872-40d9-a691-c4c44edc476e" />
+## Postman Testing of API Endpoints (https://documenter.getpostman.com/view/25014777/2sBXVmgouT)
+<img width="1288" height="787" alt="Screenshot 2026-01-28 at 14 54 16" src="https://github.com/user-attachments/assets/d68907af-4011-4b24-8549-a34327fecc15" />
 
 ## Backend API Documentation with Postman
-** Link: https://documenter.getpostman.com/view/29763810/2sB2j978ZA
+** Link: https://documenter.getpostman.com/view/25014777/2sBXVmgouT
 
 ## MongoDB as Database
 <img width="1329" alt="Screenshot 2025-05-08 at 23 37 42" src="https://github.com/user-attachments/assets/ca19a1ee-c04c-4717-af0a-a3d1e5a48947" />
@@ -71,3 +71,4 @@ Please give a ⭐️ if you like this project!
 - Hat tip to Heimdall Project
 - Inspiration to all devs
 - etc
+
